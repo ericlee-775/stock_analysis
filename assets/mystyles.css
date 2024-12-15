@@ -1,0 +1,36 @@
+.item_subtitle{
+    white-space: pre-line;
+  }
+.bold{
+    font-weight: bold;
+}
+.img1 {
+  height: 200px;
+}
+
+.word_type{
+ font-family: "標楷體", serif;
+
+}
+.banner {
+   # background-color: rgb(207,207,207);
+
+  background: linear-gradient(to right, #2196F3, #E91E63); 
+ }
+.banner Img{
+    position relative;
+    float : right;
+    right :10px;
+    height:80px;
+}
+.banner h1{
+  font-weight: 2000;
+  font-family: "標楷體", serif;
+}
+.color{
+    color: white;
+    padding-top: 10px;
+    margin-left: 2%;
+    display: inline-block;
+    font-family: "標楷體", serif;
+}
